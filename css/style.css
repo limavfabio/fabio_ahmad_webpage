@@ -22,9 +22,9 @@
     display: flex;
 }
 
-/*.timeline {
-    display: flex;
-    max-width: 400px;
-    flex-wrap: wrap;
+.timeline {
+
+    max-width: 600px;
+
 
 }
