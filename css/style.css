@@ -1,5 +1,5 @@
 .header {
-    min-width: 100vh;
+    min-width: 100%;
     display: flex;
     background-color: rgb(204, 204, 204);
     flex-direction: column;
@@ -14,12 +14,14 @@
 }
 
 #image {
-    max-width: 100vh;
+    max-width: 100%;
+    width: fit-content;
     height: auto;
 }
 
 .timeline-items {
     display: flex;
+    
 }
 
 .timeline {
